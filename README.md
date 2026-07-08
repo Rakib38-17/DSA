@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Rakib38-17/DSA/tree/master/1288-remove-covered-intervals) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Rakib38-17/DSA/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
