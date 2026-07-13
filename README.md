@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rakib38-17/DSA/tree/master/0009-palindrome-number) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Rakib38-17/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
