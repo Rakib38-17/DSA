@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Rakib38-17/DSA/tree/master/1288-remove-covered-intervals) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rakib38-17/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Sorting
 |  |
 | ------- |
@@ -29,8 +30,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rakib38-17/DSA/tree/master/0009-palindrome-number) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rakib38-17/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Rakib38-17/DSA/tree/master/1291-sequential-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rakib38-17/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rakib38-17/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
