@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rakib38-17/DSA/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/Rakib38-17/DSA/tree/master/0043-multiply-strings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rakib38-17/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Enumeration
 |  |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rakib38-17/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Rakib38-17/DSA/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Rakib38-17/DSA/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
