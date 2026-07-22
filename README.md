@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rakib38-17/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Rakib38-17/DSA/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Rakib38-17/DSA/tree/master/0043-multiply-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rakib38-17/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rakib38-17/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -50,9 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Rakib38-17/DSA/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Rakib38-17/DSA/tree/master/0043-multiply-strings) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Rakib38-17/DSA/tree/master/0043-multiply-strings) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Rakib38-17/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
